@@ -28,7 +28,7 @@ Para utilizar esta herramienta, necesitas tener instalado:
 
 ```bash
 git clone https://github.com/tu-usuario/DescargadorYoutubeMP4.git
-cd Desacargador-Youtube
+cd DescargadorYoutubeMP4
 ```
 
 2. Instala las dependencias necesarias:
